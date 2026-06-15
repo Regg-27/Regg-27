@@ -19,5 +19,5 @@ Java · C · C++ · Python · SQL · Git · Maven · CMake · JDBC · Oracle
 
 ---
 
-📫 reginald.meeks@gmail.com
+📫 reginald.w.meeks@gmail.com
 🔗 [linkedin.com/in/reginald-meeks](https://www.linkedin.com/in/reginald-meeks)
